@@ -4,8 +4,8 @@ PIVLogin
 2. place the zip file under extensions/SSLAuthentication where your MediaWiki installation directory
 3. unzip this master zip file
 4. modify the following code in getldapsam.php with your AD information
-5. 
-6. 
+
+ 
       $LDAPHost = "ldaps://yourADServer:ADPort"; 
 
       $dn = "DC=yourorganization,DC=com";

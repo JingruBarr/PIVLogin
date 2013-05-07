@@ -8,6 +8,7 @@ PIVLogin
       $dn = "DC=yourorganization,DC=com";
       $LDAPUser = "ADServiceAccountName@yourorganization.com";  
       $LDAPUserPassword = "ADServiceAccountPassword";
+
     ex: ---------------------------------
       $LDAPHost = "ldaps://ADServer.abc.org:636"; 
      $dn = "DC=abc,DC=org";
